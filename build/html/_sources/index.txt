@@ -1,0 +1,23 @@
+.. be-side documentation master file, created by
+   sphinx-quickstart on Wed Oct 28 13:41:47 2015.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to be-side's documentation!
+===================================
+
+.. toctree::
+   :maxdepth: 3
+   :caption: 目次
+
+   2015
+   2014
+   2013
+   2012
+   2011
+   2010
+   2009
+   2008
+   2007
+   2006
+   glossary
