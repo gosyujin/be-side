@@ -1,0 +1,25 @@
+general:
+  branches:
+    only:
+      - master
+
+dependencies:
+  pre:
+    - git config --global user.name "CircleCI"
+    - git config --global user.email "circleci@example.com"
+  override:
+    - sudo pip install sphinx
+
+checkout:
+  post:
+    - git submodule foreach 'git pull origin master'
+
+test:
+  override:
+    - exit
+
+deployment:
+  master:
+    branch: master
+    commands:
+      - sh make.sh circle
