@@ -7,8 +7,7 @@ Welcome to be-side's documentation!
 ===================================
 
 .. toctree::
-   :maxdepth: 3
-   :caption: 目次
+   :maxdepth: 1
 
    2015
    2014
