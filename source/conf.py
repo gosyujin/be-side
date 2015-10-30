@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'be-side'
+project = u'be-side your life history'
 copyright = u'2015, kk_Ataka'
 author = u'kk_Ataka'
 
