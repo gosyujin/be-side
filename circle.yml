@@ -10,10 +10,6 @@ dependencies:
   override:
     - sudo pip install sphinx
 
-checkout:
-  post:
-    - git submodule foreach 'git pull origin master'
-
 test:
   override:
     - exit
