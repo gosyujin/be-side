@@ -3,6 +3,7 @@
 ======
 
 .. contents::
+   :depth: 2
    :local:
 
 用語一覧
