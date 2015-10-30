@@ -10,8 +10,8 @@ elif [ $1 = "serve" ]; then
   cd build/html
   python -m SimpleHTTPServer 4000
 elif [ $1 = "deploy" ]; then
-  make clean
-  make html
+#  make clean
+#  make html
   git add -A
   git commit -m 'Update source'
   git push origin master
