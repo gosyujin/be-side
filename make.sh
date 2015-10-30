@@ -21,6 +21,7 @@ elif [ $1 = "circle" ]; then
   git clone -b gh-pages git@github.com:gosyujin/be-side.git ~/gh-pages
   rm -rf ~/gh-pages/*
   cp -R build/html/* ~/gh-pages
+  cp -R circle.yml.gh-pages ~/gh-pages/circle.yml
 
   cd ~/gh-pages
 
