@@ -14,10 +14,6 @@ elif [ $1 = "deploy" ]; then
   make html
   git add -A
   git commit -m 'Update source'
-  if [ $? -eq 1 ]; then
-    echo 'nothing to commit (working directory clean)?'
-    exit 0
-  fi
   git push origin master
 elif [ $1 = "circle" ]; then
   make clean
@@ -29,10 +25,12 @@ elif [ $1 = "circle" ]; then
   cd ~/gh-pages
 
   git add -A
-  git commit -m 'Commit at CircleCI'
-  if [ $? -eq 1 ]; then
-    echo 'nothing to commit (working directory clean)?'
-    exit 0
+  git status -s > /tmp/gitstatus
+  ls -l /tmp/gitstatus
+  if [ -s /tmp/gitstatus ]; then
+    git commit -m 'Commit at CircleCI'
+    git push origin gh-pages
+  else
+    echo 'no change source'
   fi
-  git push origin gh-pages
 fi
