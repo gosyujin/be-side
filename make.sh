@@ -27,6 +27,7 @@ elif [ $1 = "circle" ]; then
   git add -A
   git status -s > /tmp/gitstatus
   ls -l /tmp/gitstatus
+  cat /tmp/gitstatus
   if [ -s /tmp/gitstatus ]; then
     git commit -m 'Commit at CircleCI'
     git push origin gh-pages
