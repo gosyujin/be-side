@@ -15,3 +15,4 @@
    2007
    2006
    glossary
+   surefire_hit_talk
