@@ -1,6 +1,9 @@
 石川・ホンマ・ぶるんのBe-side Your Life!! めも
 ==============================================
 
+* `ビーサイトップ <http://be-side.jp/>`_
+* `ポッドキャスト <http://be-side.jp/podcast/>`_
+
 .. toctree::
    :maxdepth: 1
 
