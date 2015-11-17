@@ -33,7 +33,7 @@
 
 * `ビーサイトップ <http://be-side.jp/>`_
 
-   * `ポッドキャスト <http://be-side.jp/podcast/>`_
+  * `ポッドキャスト <http://be-side.jp/podcast/>`_
 
 * `西川貴教のイエノミ!! - Wikipedia <https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B7%9D%E8%B2%B4%E6%95%99%E3%81%AE%E3%82%A4%E3%82%A8%E3%83%8E%E3%83%9F!!>`_
 * `サウンドマン - Wikipedia <https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%9E%E3%83%B3>`_
@@ -45,7 +45,7 @@
   * `節丸雅矛 - Wikipedia <https://ja.wikipedia.org/wiki/%E7%AF%80%E4%B8%B8%E9%9B%85%E7%9F%9B>`_
 
 ページの見方
-===========
+============
 
 ::
 
