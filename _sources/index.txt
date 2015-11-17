@@ -2,6 +2,9 @@
 石川・ホンマ・ぶるんのBe-side Your Life!! めも
 ==============================================
 
+年表
+====
+
 .. toctree::
    :maxdepth: 1
 
@@ -15,11 +18,27 @@
    2008
    2007
    2006
+
+その他
+======
+
+.. toctree::
+   :maxdepth: 2
+
    glossary
    surefire_hit_talk
 
+参考、リンク
+============
+
+* `ビーサイトップ <http://be-side.jp/>`_
+
+   * `ポッドキャスト <http://be-side.jp/podcast/>`_
+
 ページの見方
 ===========
+
+::
 
     ======
     2015年
@@ -36,11 +55,5 @@
        Description from ポッドキャストページ
 
     * memo
-    * ...
-
-参考、リンク
-============
-
-* `ビーサイトップ <http://be-side.jp/>`_
-* `ポッドキャスト <http://be-side.jp/podcast/>`_
+    * memo2
 
