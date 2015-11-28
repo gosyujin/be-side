@@ -16,7 +16,8 @@ def parse(url)
   current_vol = 0
 
   doc.xpath('//div[@class="text"]').each do |node|
-    back_number = node.at("a").attribute("href").value
+    link = node.at("a").attribute("href").value
+    back_number = link.clone
     back_number.slice!(File_url_prefix)
     back_number.slice!(File_url_suffix)
 
@@ -34,7 +35,7 @@ def parse(url)
     puts 'vol.' + back_number + ' ' + description[0][0..30] + '...'
     puts '----------' + ('--' * description[0][0..30].length) + '---'
     puts ''
-    puts '::'
+    puts "#{link}::"
     puts ''
     description.each do |d|
        puts '   ' + d
