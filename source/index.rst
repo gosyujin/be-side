@@ -28,12 +28,18 @@
    glossary
    surefire_hit_talk
 
-参考、リンク
-============
+リンク
+======
 
 * `ビーサイトップ <http://be-side.jp/>`_
 
   * `ポッドキャスト <http://be-side.jp/podcast/>`_
+
+* `オリジナルデザインハウス あそびましょ <http://www.asobimasyo.shop-web.org/>`_
+* `コレクティブストア CollectiveStore <http://www.cstr.jp/>`_
+
+参考
+====
 
 * `オールナイトニッポン40周年スタッフblog　ニッポン放送 <http://www.allnightnippon.com/40th/staff/>`_
 * Wikipedia 会社
