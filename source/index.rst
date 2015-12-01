@@ -37,6 +37,7 @@
 
 * `オリジナルデザインハウス あそびましょ <http://www.asobimasyo.shop-web.org/>`_
 * `コレクティブストア CollectiveStore <http://www.cstr.jp/>`_
+* `アワーハウス <http://our-house.jp/index.html/>`_
 
 参考
 ====
