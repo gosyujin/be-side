@@ -34,8 +34,8 @@ sys.path.insert(0, os.path.join(site_package_path, 'sphinxcontrib/yogosyu'))
 # ones.
 extensions = [
     'sphinx.ext.todo',
-    'user_ordered_index_patch',
     'yogosyu',
+    'user_ordered_index_patch',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
