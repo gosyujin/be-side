@@ -8,8 +8,7 @@ dependencies:
     - git config --global user.name "CircleCI"
     - git config --global user.email "circleci@example.com"
   override:
-    - sudo pip install sphinx
-    - sudo pip install yogosyu
+    - sudo pip install sphinx, yogosyu
 
 test:
   override:
