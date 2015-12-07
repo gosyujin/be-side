@@ -15,15 +15,11 @@
 import sys
 import os
 import shlex
-import distutils.sysconfig
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #sys.path.insert(0, os.path.abspath('.'))
-site_package_path = distutils.sysconfig.get_python_lib()
-sys.path.insert(0, os.path.join(site_package_path, 'sortorder'))
-sys.path.insert(0, os.path.join(site_package_path, 'sphinxcontrib/yogosyu'))
 # -- General configuration ------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
@@ -32,6 +28,11 @@ sys.path.insert(0, os.path.join(site_package_path, 'sphinxcontrib/yogosyu'))
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+import distutils.sysconfig
+site_package_path = distutils.sysconfig.get_python_lib(0,0,'/usr/local/')
+sys.path.insert(0, os.path.join(site_package_path, 'sortorder'))
+sys.path.insert(0, os.path.join(site_package_path, 'sphinxcontrib/yogosyu'))
+
 extensions = [
     'sphinx.ext.todo',
     'yogosyu',
