@@ -9,6 +9,7 @@ dependencies:
     - git config --global user.email "circleci@example.com"
   override:
     - sudo pip install sphinx
+    - sudo pip install yogosyu
 
 test:
   override:
