@@ -41,6 +41,13 @@ def parse(url)
        puts '   ' + d
     end
     puts ''
+
+    #dropboxupload = "~/github/Dropbox-Uploader/dropbox_uploader.sh upload"
+    #upload_path = "radio/"
+    #file = "ishikawa#{back_number}#{File_url_suffix}"
+    #`wget -q #{link}`
+    #`#{dropboxupload} #{file} #{upload_path}/#{file}`
+    #`rm *mp3*`
   end
 end
 
