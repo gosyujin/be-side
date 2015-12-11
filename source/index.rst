@@ -4,6 +4,9 @@
 
 このページはビーサイであったあんな事やこんな事をメモしてまとめておくページです。
 
+* `ビーサイトップ <http://be-side.jp/>`_
+* `ポッドキャスト <http://be-side.jp/podcast/>`_
+
 年表
 ====
 
@@ -32,10 +35,6 @@
 
 リンク
 ======
-
-* `ビーサイトップ <http://be-side.jp/>`_
-
-  * `ポッドキャスト <http://be-side.jp/podcast/>`_
 
 * `オリジナルデザインハウス あそびましょ <http://www.asobimasyo.shop-web.org/>`_
 * `コレクティブストア CollectiveStore <http://www.cstr.jp/>`_
@@ -72,26 +71,4 @@ TODO
 ====
 
 .. todolist::
-
-ページの見方
-============
-
-::
-
-    ======
-    年
-    ======
-    
-    回
-    =======
-
-    vol.
-    ---------
-    
-    mp3ファイルリンク::
-    
-       Description from ポッドキャストページ
-
-    * memo
-    * memo2
 
