@@ -4,8 +4,7 @@
 
 このページはビーサイであったあんな事やこんな事をメモしてまとめておくページです。
 
-* `ビーサイトップ <http://be-side.jp/>`_
-* `ポッドキャスト <http://be-side.jp/podcast/>`_
+`ビーサイトップ <http://be-side.jp/>`_  `ポッドキャスト <http://be-side.jp/podcast/>`_ はこちら。
 
 年表
 ====
