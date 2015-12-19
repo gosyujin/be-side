@@ -28,15 +28,8 @@ import shlex
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-import distutils.sysconfig
-site_package_path = distutils.sysconfig.get_python_lib(0, 0, '/usr/local/')
-sys.path.insert(0, os.path.join(site_package_path, 'sortorder'))
-sys.path.insert(0, os.path.join(site_package_path, 'sphinxcontrib/yogosyu'))
-
 extensions = [
     'sphinx.ext.todo',
-    'yogosyu',
-    'user_ordered_index_patch',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
