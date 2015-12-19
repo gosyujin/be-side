@@ -9,7 +9,6 @@ dependencies:
     - git config --global user.email "circleci@example.com"
   override:
     - sudo pip install sphinx
-    - sudo pip install yogosyu
 
 test:
   override:
@@ -20,3 +19,7 @@ deployment:
     branch: master
     commands:
       - sh make.sh circle
+
+notify:
+  webhooks:
+    - url: curl -X POST https://readthedocs.org/build/be-side
