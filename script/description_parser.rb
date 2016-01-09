@@ -58,7 +58,7 @@ y.downto(y) do |year|
   puts year.to_s + '年'
   puts '======'
   puts ''
-  12.downto(11) do |month|
+  12.downto(1) do |month|
     parse(Url + "/" + year.to_s + "/" + ("%02d" % month).to_s + "/")
   end
 end
