@@ -51,6 +51,8 @@
 * `オリジナルデザインハウス あそびましょ <http://www.asobimasyo.shop-web.org/>`_
 * `コレクティブストア CollectiveStore <http://www.cstr.jp/>`_
 * `アワーハウス <http://our-house.jp/index.html/>`_
+* `S2N （SIGNAL 2 NOISE RATIO） | Listen and Stream Free Music, Albums, New Releases, Photos, Videos <https://myspace.com/s2n>`_
+* `松井常松 SOLID SOUNDS - ラジオ高崎 <http://www.takasaki.fm/program/program/s-sounds.html>`_
 
 参考
 ====
