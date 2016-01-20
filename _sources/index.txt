@@ -15,17 +15,17 @@
 .. toctree::
    :maxdepth: 1
 
-   be-side/2016
-   be-side/2015
-   be-side/2014
-   be-side/2013
-   be-side/2012
-   be-side/2011
-   be-side/2010
-   be-side/2009
-   be-side/2008
-   be-side/2007
-   be-side/2006
+   2016
+   2015
+   2014
+   2013
+   2012
+   2011
+   2010
+   2009
+   2008
+   2007
+   2006
 
 激ウラ
 ------
