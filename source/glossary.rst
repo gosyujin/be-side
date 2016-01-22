@@ -5,6 +5,13 @@
 .. glossary::
    :sorted:
 
+   PVはAVだ
+     * :term:`PV/AVからのAC/DC`
+     * ホンマさんがアイドルのPVをAV代わりにしている疑惑が生まれ、語感だけで口から出た言葉
+
+   PV/AVからのAC/DC
+     * :term:`PVはAVだ`
+
    HON MY BEAT
      * BOOWYにハマったホンマさんが変更したツイッターのスクリーンネーム
      * ビーサイリスナーからしこたま叩かれた
