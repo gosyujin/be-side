@@ -42,6 +42,7 @@
 .. toctree::
    :maxdepth: 2
 
+   event
    glossary
    surefire_hit_talk
 
