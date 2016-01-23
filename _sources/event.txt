@@ -62,8 +62,8 @@
      - /
      - /
    * - 2008年
-     - vol.xxx_x
-     - /
+     - vol.139_3_
+     - :term:`プリンスいかくさ`
      - /
      - /
    * - 2007年
@@ -77,10 +77,11 @@
      - /
      - /
 
-.. _vol.504_3: http://project-phi.ddo.jp/ishikawa/ishikawa504_3.mp3
-.. _vol.451_3: http://project-phi.ddo.jp/ishikawa/ishikawa451_3.mp3
-.. _vol.400_3: http://project-phi.ddo.jp/ishikawa/ishikawa400_3.mp3
-.. _vol.348_3: http://project-phi.ddo.jp/ishikawa/ishikawa348_3.mp3
+.. _vol.139_3: http://project-phi.ddo.jp/ishikawa/ishikawa139_3.mp3
+.. _vol.243_2: http://project-phi.ddo.jp/ishikawa/ishikawa243_2.mp3
 .. _vol.295_2: http://project-phi.ddo.jp/ishikawa/ishikawa295_2.mp3
 .. _vol.295_3: http://project-phi.ddo.jp/ishikawa/ishikawa295_3.mp3
-.. _vol.243_2: http://project-phi.ddo.jp/ishikawa/ishikawa243_2.mp3
+.. _vol.348_3: http://project-phi.ddo.jp/ishikawa/ishikawa348_3.mp3
+.. _vol.400_3: http://project-phi.ddo.jp/ishikawa/ishikawa400_3.mp3
+.. _vol.451_3: http://project-phi.ddo.jp/ishikawa/ishikawa451_3.mp3
+.. _vol.504_3: http://project-phi.ddo.jp/ishikawa/ishikawa504_3.mp3
