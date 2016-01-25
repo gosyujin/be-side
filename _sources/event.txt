@@ -52,33 +52,36 @@
      - | バロンドール次点は :term:`RNブラック` 石川「もう一個伸びるはず」、 :term:`RNドドンパゴーゴー` はペンネーム一本で本戦に食い込んできた
        | 流行語は地味に二連覇
    * - 2010年
-     - vol.243_2_
+     - | vol.243_2_
+     - | vol.243_3_
      - :term:`RNぴちお`
      - :term:`あんた頭おかしいでしょ`
      - やられっぱなしのホンマさんがついに反撃開始
    * - 2009年
      - vol.xxx_x
-     - -
-     - -
-     - -
+     - /
+     - /
+     - /
    * - 2008年
      - vol.139_3_
      - :term:`RNプリンスいかくさ`
-     - -
-     - -
+     - 未開催
+     - /
    * - 2007年
-     - vol.xxx_x
-     - -
-     - -
-     - -
+     - vol.087_3
+     - :term:`RNエビスマン`
+     - 未開催
+     - /
    * - 2006年
      - vol.xxx_x
-     - -
-     - -
-     - -
+     - /
+     - /
+     - /
 
+.. _vol.087_3: http://project-phi.ddo.jp/ishikawa/ishikawa087_3.mp3
 .. _vol.139_3: http://project-phi.ddo.jp/ishikawa/ishikawa139_3.mp3
 .. _vol.243_2: http://project-phi.ddo.jp/ishikawa/ishikawa243_2.mp3
+.. _vol.243_3: http://project-phi.ddo.jp/ishikawa/ishikawa243_3.mp3
 .. _vol.295_2: http://project-phi.ddo.jp/ishikawa/ishikawa295_2.mp3
 .. _vol.295_3: http://project-phi.ddo.jp/ishikawa/ishikawa295_3.mp3
 .. _vol.348_3: http://project-phi.ddo.jp/ishikawa/ishikawa348_3.mp3
