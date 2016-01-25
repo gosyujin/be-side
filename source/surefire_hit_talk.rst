@@ -12,12 +12,12 @@
 音楽に興味がない石川さん、無人島に3枚CDを持っていくとしたら？
 -------------------------------------------------------------
 
-* 3枚もいらない。BOOWYのベストだけでいい
+* 「3枚もいらない。BOOWYのベストだけでいい」
 
 X(X JAPAN)理論
 --------------
 
-* Xのライブが数時間押しで始まった、でも、やってくれただけありがたい
+* 「Xのライブが数時間押しで始まった、でも、やってくれただけありがたい」
 * みんなそういう気持ちで接してほしい
 
 肉理論
@@ -28,17 +28,18 @@ X(X JAPAN)理論
 遅刻に関する鉄板の言い訳
 ------------------------
 
-* 「いやー、前が押しちゃって」(シャワー上がりなので髪濡らしながら)
+* 「いやー、前が押しちゃって」(寝起きかつシャワー上がりのため髪濡らしながら)
 
 野球選手あるある
 ----------------
 
-* ペタジーニといえば熟女好き
-* 篠塚といえば車庫飛ばし
-* 二岡といえば山本モナ
-* 河原といえばソープ
-* 柴田といえばトランプ
-* 東尾といえば麻雀
+* ペタジーニといえば熟女好き `ペタジーニ 熟女好き - Google 検索 <https://www.google.co.jp/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=%E3%83%9A%E3%82%BF%E3%82%B8%E3%83%BC%E3%83%8B%20%E7%86%9F%E5%A5%B3%E5%A5%BD%E3%81%8D>`_
+* 篠塚といえば車庫飛ばし `篠塚 車庫飛ばし - Google 検索 <https://www.google.co.jp/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=%E7%AF%A0%E5%A1%9A%20%E8%BB%8A%E5%BA%AB%E9%A3%9B%E3%81%B0%E3%81%97>`_
+* 二岡といえば山本モナ `二岡 山本モナ - Google 検索 <https://www.google.co.jp/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=%E4%BA%8C%E5%B2%A1%20%E5%B1%B1%E6%9C%AC%E3%83%A2%E3%83%8A>`_
+* 河原といえばソープ `河原 ソープ - Google 検索 <https://www.google.co.jp/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=%E6%B2%B3%E5%8E%9F%20%E3%82%BD%E3%83%BC%E3%83%97>`_
+* 柴田といえばトランプ `柴田 トランプ - Google 検索 <https://www.google.co.jp/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=%E6%9F%B4%E7%94%B0%20%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97>`_
+* 東尾といえば麻雀 `東尾 麻雀 - Google 検索 <https://www.google.co.jp/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=%E6%9D%B1%E5%B0%BE%20%E9%BA%BB%E9%9B%80>`_
+* 以上すべて「今時この話題にふれるのビーサイくらいだからな！」と言っている、真意は各々確認する事
 
 植村花菜さんだってね…
 ----------------------
