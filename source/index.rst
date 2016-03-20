@@ -43,8 +43,8 @@
    :maxdepth: 2
 
    event
-   glossary
    surefire_hit_talk
+   glossary
 
 リンク
 ======
