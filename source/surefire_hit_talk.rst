@@ -39,6 +39,7 @@ X(X JAPAN)理論
 * 河原といえばソープ `河原 ソープ - Google 検索 <https://www.google.co.jp/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=%E6%B2%B3%E5%8E%9F%20%E3%82%BD%E3%83%BC%E3%83%97>`_
 * 柴田といえばトランプ `柴田 トランプ - Google 検索 <https://www.google.co.jp/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=%E6%9F%B4%E7%94%B0%20%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97>`_
 * 東尾といえば麻雀 `東尾 麻雀 - Google 検索 <https://www.google.co.jp/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=%E6%9D%B1%E5%B0%BE%20%E9%BA%BB%E9%9B%80>`_
+* ゴーグルといえば小宮山(vol.515_1)
 * 以上すべて「今時この話題にふれるのビーサイくらいだからな！」と言っている、真意は各々確認する事
 
 植村花菜さんだってね…
