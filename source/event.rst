@@ -28,7 +28,8 @@
      - vol.504_3_
      - :term:`RNめそぽたみあ`
      - :term:`え、ビーチさん結婚したんすか`
-     - 流行語の次点は :term:`きったねぇメール` だったが、本物の糞の前に敗れる
+     - | 6年ぶりにめそぽがバロンドール受賞
+       | 流行語の次点は :term:`きったねぇメール` だったが、本物の糞の前に敗れる
    * - :doc:`2014`
      - vol.451_3_
      - :term:`RN10年後に芽が出るタイプ`
@@ -63,19 +64,20 @@
      - :term:`あんた頭おかしいでしょ`
      - やられっぱなしのホンマさんがついに反撃開始
    * - :doc:`2009`
-     - vol.xxx_x
+     - vol.191_4_
+     - :term:`RNめそぽたみあ`
      - /
-     - /
-     - /
+     - :term:`RN石川大嫌い` , :term:`RNプリンスいかくさ` , :term:`サボテン野郎` ことちおやまさと等をかわしてめそさんが受賞
+       | 大阪の仕切り、イナズマでの働きが評価された
    * - :doc:`2008`
      - vol.139_3_
      - :term:`RNプリンスいかくさ`
-     - 未開催
+     - 未開催っぽい
      - /
    * - :doc:`2007`
      - vol.087_3_
      - :term:`RNエビスマン`
-     - 未開催
+     - 未開催っぽい
      - /
    * - :doc:`2006`
      - vol.xxx_x
@@ -85,6 +87,7 @@
 
 .. _vol.087_3: http://project-phi.ddo.jp/ishikawa/ishikawa087_3.mp3
 .. _vol.139_3: http://project-phi.ddo.jp/ishikawa/ishikawa139_3.mp3
+.. _vol.191_4: http://project-phi.ddo.jp/ishikawa/ishikawa191_4.mp3
 .. _vol.243_2: http://project-phi.ddo.jp/ishikawa/ishikawa243_2.mp3
 .. _vol.243_3: http://project-phi.ddo.jp/ishikawa/ishikawa243_3.mp3
 .. _vol.295_2: http://project-phi.ddo.jp/ishikawa/ishikawa295_2.mp3
